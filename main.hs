@@ -1,0 +1,1 @@
+data Tree = Leaf a | Node (Tree a) (Tree a)
